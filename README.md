@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Nidhi Sakariya!
+# 👋 Hi, I'm Nidhi !
 💻 B.Tech (Information Technology) | Web Developer | MERN Stack Learner  
 
 🌱 Currently learning **React.js, Node.js, MongoDB, and Express.js**  
