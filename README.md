@@ -20,6 +20,7 @@
 **Tools:** Git, GitHub, Visual Studio, VS Code, Redis, RabbitMQ
 
 ## 📌 Featured Projects
+- 🛡️ CyberShield CNI – AI-Driven Cyber Resilience Platform
 - 🛒 DigiStore – Digital Marketplace (.NET Core MVC, PostgreSQL, SignalR, Stripe)
 - ❓ Query Management System (.NET Core MVC, Redis, RabbitMQ)
 - 🍔 Online Food Ordering System (MERN Stack)
