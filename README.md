@@ -22,8 +22,6 @@
 
 🛡️ **CyberShield CNI** – AI-Driven Cyber Resilience Platform for Critical National Infrastructure (ET AI Hackathon 2.0)
 
-🛒 **DigiStore** – Digital Marketplace (.NET Core MVC, PostgreSQL, SignalR, Stripe)
-
 ❓ **Online Query Management System** – (.NET Core MVC, Redis, RabbitMQ)
 
 🔐 **AI Security System** – AI-powered cybersecurity and threat detection platform
