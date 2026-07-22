@@ -22,7 +22,7 @@
 ## 📌 Featured Projects
 - 🛡️ CyberShield CNI – AI-Driven Cyber Resilience Platform
 - 🔐 AI Security System – AI-powered cybersecurity and threat detection platform
--🧠 AI Hallucination Detector – Detects and analyzes hallucinations in Large Language Models (LLMs)
+  -🧠 AI Hallucination Detector – Detects and analyzes hallucinations in Large Language Models (LLMs)
 - 🛒 DigiStore – Digital Marketplace (.NET Core MVC, PostgreSQL, SignalR, Stripe)
 - ❓ Query Management System (.NET Core MVC, Redis, RabbitMQ)
 - 🍔 Online Food Ordering System (MERN Stack)
