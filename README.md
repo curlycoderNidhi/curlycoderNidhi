@@ -18,16 +18,22 @@
 **Databases:** PostgreSQL, MongoDB, MySQL
 
 **Tools:** Git, GitHub, Visual Studio, VS Code, Redis, RabbitMQ
-
 ## 📌 Featured Projects
-- 🛡️ CyberShield CNI – AI-Driven Cyber Resilience Platform
-- 🔐 AI Security System – AI-powered cybersecurity and threat detection platform
-  -🧠 AI Hallucination Detector – Detects and analyzes hallucinations in Large Language Models (LLMs)
-- 🛒 DigiStore – Digital Marketplace (.NET Core MVC, PostgreSQL, SignalR, Stripe)
-- ❓ Query Management System (.NET Core MVC, Redis, RabbitMQ)
-- 🍔 Online Food Ordering System (MERN Stack)
-- 🏨 Hostel Management System (PHP & MySQL)
-- 🤖 AI Landscape Analysis (LLMs, Agentic AI, RAG, AI Governance)
 
+🛡️ **CyberShield CNI** – AI-Driven Cyber Resilience Platform for Critical National Infrastructure (ET AI Hackathon 2.0)
+
+🛒 **DigiStore** – Digital Marketplace (.NET Core MVC, PostgreSQL, SignalR, Stripe)
+
+❓ **Online Query Management System** – (.NET Core MVC, Redis, RabbitMQ)
+
+🔐 **AI Security System** – AI-powered cybersecurity and threat detection platform
+
+🧠 **AI Hallucination Detector** – Detects and analyzes hallucinations in Large Language Models (LLMs)
+
+🍔 **Online Food Ordering System** – MERN Stack
+
+🏨 **Hostel Management System** – PHP & MySQL
+
+🤖 **AI Landscape Analysis** – LLMs, Agentic AI, RAG, AI Governance
 ## 📫 Connect with Me
 - 📧 Email: nidhisakariya204@gmail.com
