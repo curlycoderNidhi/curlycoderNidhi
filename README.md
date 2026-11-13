@@ -32,6 +32,8 @@
 **Cybersecurity & AI:** AI Security, Threat Detection, LLM Security, Generative AI, RAG, Agentic AI, AI Governance
 
 **Web Technologies:** React.js, Node.js, Express.js, HTML, CSS, Tailwind CSS
+**Enterprise & Backend Stack:**
+Java • C# • .NET Core • Python (FastAPI) • SQL Server • PostgreSQL • REST & SOAP APIs • Git CI/CD
 
 **Databases:** PostgreSQL, MongoDB, MySQL
 
