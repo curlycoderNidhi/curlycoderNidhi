@@ -51,17 +51,24 @@ An AI-powered cybersecurity platform focused on improving **threat detection, ri
 **Automated Phishing & Deepfake Defense System** *(FastAPI • React • Tailwind CSS)*  
 An AI-powered threat intelligence platform that detects sophisticated phishing emails, domain spoofing, and deepfake media in real time. Features NLP/heuristic threat scoring pipelines, RESTful APIs, and an interactive SOC dashboard.
 
-### 🔐 AI Security System
+### 🛡️ [CyberShield CNI](https://github.com/curlycoderNidhi/CyberShield-)
+**AI-Driven Cyber Resilience Platform for Critical National Infrastructure** *(ET AI Hackathon 2.0)*  
+An AI-powered cybersecurity platform focused on real-time IT/OT threat detection, mapping attacks to MITRE ATT&CK, vulnerability prioritization, and digital-twin simulation.
 
-AI-powered cybersecurity and threat detection platform designed to identify and analyze potential security threats using intelligent detection techniques.
+### 🔐 [Secure File Sharing REST API](https://github.com/curlycoderNidhi/secure-file-sharing-api)
+**Enterprise-Grade Encrypted File Sharing & Access Control** *(Python • FastAPI)*  
+A secure backend REST API engineered with end-to-end encrypted file transfers, JWT authentication, strict Role-Based Access Control (RBAC), and Swagger/OpenAPI documentation.
 
-### 🧠 AI Hallucination Detector
+### 🔐 [AI Security System](https://github.com/curlycoderNidhi/AI-Security-System)
+**Intelligent Threat Detection Platform** *(Python)*  
+An AI-powered cybersecurity and threat detection system designed to identify and analyze potential security threats using intelligent detection techniques.
 
-A security-focused AI project that **detects and analyzes hallucinations in Large Language Models (LLMs)**, helping improve the reliability and trustworthiness of AI systems.
+### 🧠 [AI Hallucination Detector](https://github.com/curlycoderNidhi/AI-Hallucination-Detector)
+**LLM Reliability & Trustworthiness Tool**  
+A security-focused AI project that detects and analyzes hallucinations in Large Language Models (LLMs), enhancing the reliability and safety of AI systems.
 
 ### 🤖 AI Landscape Analysis
-
-Research and experimentation around **LLMs, Agentic AI, RAG, AI Security, and AI Governance**, with a focus on emerging cybersecurity challenges in AI systems.
+Research and experimentation around **LLMs, Agentic AI, RAG, AI Security, and AI Governance**, focusing on emerging cybersecurity challenges in modern AI systems.
 
 ### 🍔 Online Food Ordering System
 
