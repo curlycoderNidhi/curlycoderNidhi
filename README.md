@@ -47,6 +47,9 @@ Java • C# • .NET Core • Python (FastAPI) • SQL Server • PostgreSQL •
 *ET AI Hackathon 2.0*
 
 An AI-powered cybersecurity platform focused on improving **threat detection, risk analysis, and cyber resilience for critical infrastructure**.
+### 🛡️ [AegisGuard AI](https://github.com/curlycoderNidhi/AegisGuard-AI)
+**Automated Phishing & Deepfake Defense System** *(FastAPI • React • Tailwind CSS)*  
+An AI-powered threat intelligence platform that detects sophisticated phishing emails, domain spoofing, and deepfake media in real time. Features NLP/heuristic threat scoring pipelines, RESTful APIs, and an interactive SOC dashboard.
 
 ### 🔐 AI Security System
 
