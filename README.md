@@ -52,8 +52,8 @@ An AI-powered cybersecurity platform focused on improving **threat detection, ri
 An AI-powered threat intelligence platform that detects sophisticated phishing emails, domain spoofing, and deepfake media in real time. Features NLP/heuristic threat scoring pipelines, RESTful APIs, and an interactive SOC dashboard.
 
 ### 🛡️ [CyberShield CNI](https://github.com/curlycoderNidhi/CyberShield-)
-**AI-Driven Cyber Resilience Platform for Critical National Infrastructure** *(ET AI Hackathon 2.0)*  
-An AI-powered cybersecurity platform focused on real-time IT/OT threat detection, mapping attacks to MITRE ATT&CK, vulnerability prioritization, and digital-twin simulation.
+**AI-Driven Cyber Resilience Platform for Critical National Infrastructure** *(ET AI Hackathon 2026 · FastAPI • ML • WebSockets)*  
+An enterprise-grade AI security prototype engineered to protect India's Critical National Infrastructure across IT/OT networks. Features an **IsolationForest + PCA ensemble** anomaly engine, automated **MITRE ATT&CK** threat attribution, weighted CVE prioritization, stateful **Digital-Twin** blast-radius simulation, real-time WebSocket telemetry, and strict JWT Role-Based Access Control (RBAC) for OT containment approvals.
 
 ### 🔐 [Secure File Sharing REST API](https://github.com/curlycoderNidhi/secure-file-sharing-api)
 **Enterprise-Grade Encrypted File Sharing & Access Control** *(Python • FastAPI)*  
