@@ -74,7 +74,7 @@ Research and experimentation around **LLMs, Agentic AI, RAG, AI Security, and AI
 
 Full-stack web application built using the MERN stack, with a focus on developing practical web application and database skills.
 
-### 🏨 Hostel Management System
+### 🏨 [Hostel Management System](https://github.com/curlycoderNidhi/Hostel-Management-System)
 
 **PHP | MySQL | HTML5 | CSS3**
 
@@ -95,8 +95,6 @@ A web-based hostel management application designed to simplify administrative op
 - Organized administrative functionalities into dedicated modules.
 
 **Tech Stack:** PHP, MySQL, HTML, CSS.
-
-🔗 **Repository:** [Hostel Management System](https://github.com/curlycoderNidhi/Hostel-Management-System)
 
 ## 🎯 Current Interests
 
