@@ -76,7 +76,27 @@ Full-stack web application built using the MERN stack, with a focus on developin
 
 ### 🏨 Hostel Management System
 
-Web-based management application developed using PHP and MySQL.
+**PHP | MySQL | HTML5 | CSS3**
+
+A web-based hostel management application designed to simplify administrative operations, student record management, and hostel fee tracking.
+
+**Key Features:**
+- 📋 Student record management and administration.
+- 💳 Hostel fee and payment management.
+- 🔐 Admin authentication and secure session handling.
+- 🔎 Branch-wise and semester-wise fee filtering.
+- 📄 Automated PDF fee receipt generation.
+- ✅ Server-side validation and database operations.
+
+**Technical Highlights:**
+- Developed dynamic web pages using PHP.
+- Integrated MySQL for structured data storage and retrieval.
+- Implemented session-based authentication and input validation.
+- Organized administrative functionalities into dedicated modules.
+
+**Tech Stack:** PHP, MySQL, HTML, CSS.
+
+**Repository:** [Hostel Management System](https://github.com/curlycoderNidhi/Hostel-Management-System)
 
 ## 🎯 Current Interests
 
