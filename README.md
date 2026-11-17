@@ -96,7 +96,7 @@ A web-based hostel management application designed to simplify administrative op
 
 **Tech Stack:** PHP, MySQL, HTML, CSS.
 
-**Repository:** [Hostel Management System](https://github.com/curlycoderNidhi/Hostel-Management-System)
+🔗 **Repository:** [Hostel Management System](https://github.com/curlycoderNidhi/Hostel-Management-System)
 
 ## 🎯 Current Interests
 
